@@ -9,3 +9,7 @@
 - Migrate and seed the database with ```php artisan migrate:fresh --seed```
 - Run the application:
 - ```php artisan serve```
+- Create storage link:
+- ```php artisan storage:link```
+- Update APP_URL value in .env file:
+- ```http://127.0.0.1:8000```
